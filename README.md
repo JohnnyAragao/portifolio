@@ -18,7 +18,7 @@ Este projeto tem como objetivo apresentar alguns dos meus principais projetos de
 
 ## 🌐 GitHub Pages
 
-Você pode acessar meu portfólio online clicando [aqui](https://johnnyaragao.github.io/portfolio/).
+Você pode acessar meu portfólio online clicando [aqui](https://johnnyaragao.github.io/portifolio/).
 
 ## 📫 Contato
 
