@@ -12,9 +12,9 @@ Este projeto tem como objetivo apresentar alguns dos meus principais projetos de
 
 ## 📂 Projetos em destaque
 
-- [Lista de Tarefas (To-Do)](https://github.com/JohnnyAragao/TO-DO)
-- [Game - Mata Mosquito](https://github.com/JohnnyAragao/mata-mosquito)
-- [Site Vidraçaria JEC](https://github.com/JohnnyAragao/vidracaria-JEC)
+- [Lista de Tarefas (To-Do)](https://johnnyaragao.github.io/TO-DO/)
+- [Game - Mata Mosquito](https://johnnyaragao.github.io/mata-mosquito/)
+- [Site Vidraçaria JEC](https://johnnyaragao.github.io/vidracaria-JEC/)
 
 ## 🌐 GitHub Pages
 
