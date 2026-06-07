@@ -4,6 +4,8 @@ Bem-vindo ao meu portfólio de desenvolvedor! 👨‍💻
 
 Este projeto tem como objetivo apresentar alguns dos meus principais projetos desenvolvidos enquanto estudo e aprimoro minhas habilidades em programação.
 
+O layout do projeto "perfil de viagens" foi inspirado em um protótipo disponível no Figma e foi desenvolvido por mim utilizando HTM e CSS como forma de praticar conceitos de desenvolvimento front-end
+
 ## 🧰 Tecnologias Utilizadas
 
 - HTML5
