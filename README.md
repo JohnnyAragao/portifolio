@@ -12,7 +12,7 @@ Este projeto tem como objetivo apresentar alguns dos meus principais projetos de
 
 ## 📂 Projetos em destaque
 
-- [Lista de Tarefas (To-Do)](https://johnnyaragao.github.io/TO-DO/)
+- [Perfil-de-viagens](https://johnnyaragao.github.io/perfil-de-viagens/)
 - [Game - Mata Mosquito](https://johnnyaragao.github.io/mata-mosquito/)
 - [Site Vidraçaria JEC](https://johnnyaragao.github.io/vidracaria-JEC/)
 
